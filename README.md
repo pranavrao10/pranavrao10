@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My hobbies include: Soccer, Travel, Hiking, Photography, Scuba Diving
 
--## Skills and Technologies
+-Skills and Technologies
 - **Programming Languages**: Python
 - **Data Science Tools**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Machine Learning Frameworks**: TensorFlow, PyTorch
